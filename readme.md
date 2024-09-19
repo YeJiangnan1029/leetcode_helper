@@ -43,3 +43,8 @@ nums = [-1,0,1,2,-1,-4]
 solution = Solution()
 print(solution.threeSum(nums))
 ```
+
+## future work
+- 命令行参数化
+- 没有添加默认参数时 自动生成“每日一题”的模板
+- 生成模板时先检查本地是否存在该文件，避免覆盖掉本地已经写好的代码
