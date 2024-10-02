@@ -3,8 +3,8 @@ import json
 from collect_problemset_info import query_problem
 from utils import query_from_graphql
 
-problem_id = 15
-output_folder = './'
+problem_id = 1870
+output_folder = './code'
 assert os.path.isdir(output_folder), f"{output_folder}不是文件夹或者不存在"
 
 code_type = 'Python3'

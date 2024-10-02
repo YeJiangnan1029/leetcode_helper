@@ -43,3 +43,6 @@ nums = [-1,0,1,2,-1,-4]
 solution = Solution()
 print(solution.threeSum(nums))
 ```
+
+## Code
+`code`文件夹存放了我做过的题，方便跨设备同步
